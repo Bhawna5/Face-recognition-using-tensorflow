@@ -11,6 +11,10 @@ Triplet loss function is used which compares three inputs (i.e. Anchor, positive
 
 # How to run program
 Install all required libraries.
+Here is list of all the libraries:
+
+tensorflow,keras,scipy,scikit-learn,opencv-python, h5py, matplotlib, pypiwin32
+Install all these libraries to your python using pip install command.
 
 To prepare database, create images folder in your working directory and put your images with your name, so that it can identify your name and print welcome #yourname.
 
